@@ -1,4 +1,4 @@
-// НАСТРОЙКА ПАГИНАЦИИ
+
 import { refs } from './refs';
 import { setPageToUrl } from './setPageUrl';
 import { getUrlFromSearchParam, getFilmsByUrl } from './api';
