@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://iankafil.github.io/project-group-5-js/",
+  "homepage": "https://antoni37/Filmoteka/",
   "scripts": {
     "start": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /project-group-5-js/"
+    "build": "parcel build src/*.html --public-url /Filmoteka/"
   },
   "repository": {
     "type": "git",
